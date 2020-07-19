@@ -2,7 +2,12 @@
 <h3 align="center">A passionate Competitive Programmer and Software developer from India.</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=aman2241 alt=aman2241/> </p>
 
+
 - 💬 Ask me about **C++, Software Development and Machine Learning.**
+
+- 🎯 Learning Software Development skills and Writing Research Papers.
+
+- 🙋 Ready to collaborate on Machine Learning and Software Development Projects.
 
 - 📫 Reach out to me **aman25722@gmail.com**
 
