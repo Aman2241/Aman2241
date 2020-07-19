@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aman Raj</h1>
+<h1 align="center">Hi 👋, I'm Aman Raj 😎</h1>
 <h3 align="center">A passionate Competitive Programmer and Software developer from India.</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=aman2241 alt=aman2241/> </p>
 
