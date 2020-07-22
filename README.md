@@ -1,5 +1,5 @@
 <h1 align="center">नमस्ते<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Aman Raj
-<h3 align="center"> Competitive Programmer  | Data Science enthusiast</h3>
+<h3 align="center"> Competitive Programmer</h3>
   
 
 - 🔭 I’m currently working on my **Competitive Programming and Software Development** skills.
