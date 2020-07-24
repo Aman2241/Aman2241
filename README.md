@@ -8,10 +8,6 @@
 
 - 🤔 I’m looking for help with **mentorship for Software Development Projects**
 
-- 👩‍💻 My **skills** are 👇
-
-<p align="center"><img src=https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg alt=c width="20" height="20"/> <img                   src=https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg alt=cplusplus width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg alt=java width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="20" height="20"/></p><p align="center"></p>
-
 - 💬 Ask me about **Data Analysis and Visualization**
 
 - 📫 How to reach me **aman25722@gmail.com**
