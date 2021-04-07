@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on my **Competitive Programming and Software Development** skills.
 
-- 👯 I’m looking to collaborate on **Open Source Projects related to Data Analysis and Visualization**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🤔 I’m looking for help with **mentorship for Software Development Projects**
 
-- 💬 Ask me about **Data Analysis and Visualization**
+- 💬 Ask me about **Competetive Programming and Software Devolpment**
 
 - 📫 How to reach me **aman25722@gmail.com**
 
